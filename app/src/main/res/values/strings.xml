@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">thenewbostonIntentServices</string>
+    <string name="action_settings">Settings</string>
+    <string name="tglOnText">ON</string>
+    <string name="tglOffText">OFF</string>
+    <string name="tvToggleState">Toggle Me While Services Run</string>
+</resources>
+
